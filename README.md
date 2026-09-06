@@ -1,0 +1,1 @@
+# Text-Detection-and-Recognition-Using-EasyOCR-and-OpenCV-
